@@ -1,4 +1,4 @@
 void helloGit()
 {
-	std::cout<<"hello git"<<std::endl;
+	std::cout<<"hello git, after modified"<<std::endl;
 }
